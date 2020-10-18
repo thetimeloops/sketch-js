@@ -1,0 +1,15 @@
+.pixel {
+    display:inline-block;
+    background: black;
+}
+
+.canvas{
+    /*display:block;*/
+    width:100%;
+    height:95%;
+}
+
+button {
+    width:100%;
+    height: 5%;
+}
